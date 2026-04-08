@@ -1,0 +1,8 @@
+#header .logo,
+#header .heading sup{
+    display:none;
+}
+
+#header h1.heading span{
+    display: none;
+}
